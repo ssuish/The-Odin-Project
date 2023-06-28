@@ -105,3 +105,5 @@ dist
 
 # User-defined ignore files
 Notes.Md
+
+/ssh/*
