@@ -107,3 +107,4 @@ dist
 Notes.Md
 
 /ssh/*
+.vscode/settings.json
